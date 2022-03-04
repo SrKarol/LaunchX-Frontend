@@ -6,4 +6,4 @@
 2. [Buyer Persona]()
 3. [Publico Objetivo](https://miro.com/app/board/uXjVOIY7TrM=/?invite_link_id=114966157778)
 4. [Wireframe UX](https://github.com/SrKarol/LaunchX-Frontend/blob/Personal/INTRO/Wireframe.md)
-5. [UI](https://github.com/SrKarol/LaunchX-Frontend/blob/Personal/INTRO/assets/ui.png)
+5. [UI](https://github.com/SrKarol/LaunchX-Frontend/blob/Personal/INTRO/UI.md)
