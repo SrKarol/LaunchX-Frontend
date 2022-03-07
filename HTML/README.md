@@ -2,5 +2,5 @@
 
 ### Prácticas de HTML
 
-1. [Toma De Requerimientos]()
-2. [Buyer Persona]()
+1. [Practica Pasteleria]()
+2. [Practica Tacos](https://github.com/SrKarol/LaunchX-Frontend/tree/Personal/HTML/Tacos)
