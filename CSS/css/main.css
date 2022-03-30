@@ -7,9 +7,6 @@ body {
     overflow-x: hidden;
 }
 
-
-/*===================navbar==========================*/
-
  #menu a, button{
      font-size: 22px !important;
      font-weight: 600;
@@ -30,15 +27,10 @@ body {
     width: 90%;
     height: auto;
   }
-/*===================SLIDER DE IMAGENES==========================*/
 
 .carousel-inner {
     max-height:43rem !important;
 }
-
-/*===================SECCION NUESTRO EQUIPO IMAGEN==========================*/
-
-
 
 #img-equipo{
     max-height:60rem !important;
@@ -48,10 +40,6 @@ body {
 #titulo-formulario {
     color: #3f3f3f;
 }
-
-
-
-/*=========================FOOTER================================*/
 
 footer {
     background: #1b2a4e;
@@ -66,8 +54,6 @@ footer p{
     padding: 0 8px;
     color:#f3f3f3;
 }
-
-/*=========================MEDIA QUERIES PANTALLA ANCHA================================*/
 
 @media (max-width:1200px){
     #intro, #equipo {
@@ -86,8 +72,6 @@ footer p{
    }
  
 }
-/*=========================MEDIA QUERIES PANTALLA SM================================*/
-
 
 @media (max-width:768px) {
 
@@ -119,7 +103,6 @@ footer p{
 
 
 }
-/*=========================MEDIA QUERIES PANTALLA EXTRA-SM================================*/
 
 @media (max-width: 576px) {
     #servicios-fila-2 {
